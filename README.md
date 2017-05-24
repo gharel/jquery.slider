@@ -1,2 +1,2 @@
 # jquery.slider
-Slider plugin for jQuery
+An old slider plugin for jQuery
